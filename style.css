@@ -30,6 +30,9 @@ li a:hover{
     padding: 0;
 }
 /**class-selector**/
+.vix{
+    color-red
+}
 .header-logo{
   width: 17%;
   position: absolute;
