@@ -31,8 +31,7 @@ li a:hover{
 }
 /**class-selector**/
 .vix{
-    background-color:#8ad7c1;
-    border:2px solid white;
+    background-color:yellow;
 }
 .header-logo{
   width: 17%;
